@@ -1,0 +1,98 @@
+body {
+
+text-align: center;
+background-color: black;
+
+}
+ a{
+ 	color: blue;
+ }
+
+
+#Bronze {
+
+   color: blue;
+
+}
+span {
+
+  color: red;
+ background-color: yellow;
+ 
+}
+#Age {
+
+
+   color: yellow;
+  text-align: center;
+}
+#Uranus {
+
+ color: black;
+
+}
+h4 {
+
+  color: yellow;	
+  text-align: center;
+}
+#Titan {
+
+
+  background-color: black;
+  color: blue;
+  text-align: center;
+}
+p {
+
+	color: red;
+}
+
+#Apollo {
+
+  color: black;
+  background-color: white;
+
+}
+#infants {
+
+	color: blue;
+	text-align: center;
+}
+#Giant {
+
+	color: blue;
+}
+#Olympian {
+
+	color: orange;
+	text-align: left;
+}
+#Midas {
+	color: blue;
+	text-align: center;
+}
+#Hera {
+
+	color: green;
+}
+#Poseidon {
+
+	color:  rgb(255,0,72);
+	background-color: black;
+
+}
+
+p {
+	text-align: left;
+}
+#Heracles {
+	color:  rgb(255,0,72);
+}
+#Rome {
+	background-color: white;
+	color: black;
+}
+#dimg_13 {
+	float: left;
+}
